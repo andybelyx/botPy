@@ -1,7 +1,7 @@
 import telebot
 
 
-bot = telebot.TeleBot("653419308:AAGrfT0eMsfnF7j54P564Fyuw8ap2sK2H2U")
+bot = telebot.TeleBot("yuor_token")
 
 
 @bot.message_handler(commands=["start"])
